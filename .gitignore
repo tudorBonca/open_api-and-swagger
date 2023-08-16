@@ -1,2 +1,12 @@
 nest-js-swg/tutorial/node_modules
+nest-js-swg/tutorial/.idea
 swg_express/node_modules
+swg_express/.idea
+django-swg/.idea
+fastapi_swg/.idea
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/open_api-and-swagger.iml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/vcs.xml
