@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@nestjs/cli": "^9.5.0",
+    "@nestjs/swagger": "^7.1.8"
+  }
+}

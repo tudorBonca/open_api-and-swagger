@@ -1,0 +1,3 @@
+ In order to run this app run this commands:
+ "npm start"
+ access: http://127.0.0.1:3000/api-docs/#/
